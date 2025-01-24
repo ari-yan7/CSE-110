@@ -4,9 +4,9 @@
  Sample Input#1
  4
  Output
- 4
- 3 4
- 2 3 4
+       4
+     3 4
+   2 3 4
  1 2 3 4
 */
 
@@ -19,6 +19,10 @@ public class Lab6_CW3
         int n = sc.nextInt();
         for (int i = n; i>0; i--)
         {
+            for (int k = n-i+1; k<n; k++)
+            {
+                System.out.print("  ");
+            }
             for (int j = i; j<=n; j++)
             {
                 System.out.print(j+" ");
