@@ -1,7 +1,7 @@
 # CSE 110
 **JAVA Video Tutorials :** _[Click Here](https://youtube.com/playlist?list=PLr9he3UyIy3m2NRgvzXIB3yp0LMvEWktj&si=Fdi_lR1jw0zYLDRe)_  
 
-**JAVA Reading Materials:** _[Click Here](https://github.com/ari-yan7/CSE-110/blob/main/Reading%20Materials/Java%20Lecture%20Notes.pdf)_
+**JAVA Reading Materials:** _[Click Here](https://github.com/ari-yan7/CSE-110/blob/main/Reading%20Materials/Java%20Lecture%20Notes.pdf)_ (Download it if you're unable to view it)
 
 <ins>**Lab Problems and Solutions:**</ins>
 | Serial No | Questions | Solution in Java | Solution in Python |
