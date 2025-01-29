@@ -3,7 +3,7 @@
 
 **JAVA Reading Materials:** _[Click Here](https://github.com/ari-yan7/CSE-110/blob/main/Reading%20Materials/Java%20Lecture%20Notes.pdf)_
 
-**Lab Problems and Solutions:**  
+**Lab Problems and Solutions:**
 | Serial No | Questions | Solution in Java | Solution in Python |
 |-----------|-----------|------------------|--------------------|
 | Lab 2 | [Variables and Datatypes](https://github.com/ari-yan7/CSE-110/blob/main/Lab%202/Assignment%202-%20Variables%20and%20Datatypes.pdf)| [CW4](https://github.com/ari-yan7/CSE-110/blob/main/Lab%202/Lab2_CW4.java) , [CW5](https://github.com/ari-yan7/CSE-110/blob/main/Lab%202/Lab2_CW5.java) , [EV1](https://github.com/ari-yan7/CSE-110/blob/main/Lab%202/Lab2_EV1.java) , [EV2](https://github.com/ari-yan7/CSE-110/blob/main/Lab%202/Lab2_EV2.java) , [HW1](https://github.com/ari-yan7/CSE-110/blob/main/Lab%202/Lab2_HW1.java) , [HW2](https://github.com/ari-yan7/CSE-110/blob/main/Lab%202/Lab2_HW2.java) , [HW3](https://github.com/ari-yan7/CSE-110/blob/main/Lab%202/Lab2_HW3.java) , [HW4](https://github.com/ari-yan7/CSE-110/blob/main/Lab%202/Lab2_HW4.java) , [HW5](https://github.com/ari-yan7/CSE-110/blob/main/Lab%202/Lab2_HW5.java) , [HW6](https://github.com/ari-yan7/CSE-110/blob/main/Lab%202/Lab2_HW6.java) , [HW7](https://github.com/ari-yan7/CSE-110/blob/main/Lab%202/Lab2_HW7.java) , [HW8](https://github.com/ari-yan7/CSE-110/blob/main/Lab%202/Lab2_HW8.java)| |
